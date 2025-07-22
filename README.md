@@ -38,10 +38,5 @@ Sonar signals reflect differently when they hit metallic mines versus ordinary r
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Clone the repository
 
-bash
-git clone https://github.com/yourusername/sonar-rock-mine-prediction.git
-cd sonar-rock-mine-prediction
